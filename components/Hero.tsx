@@ -2,6 +2,7 @@
 
 import { motion } from "framer-motion";
 import { TypeAnimation } from "react-type-animation";
+import Link from "next/link";
 
 const fadeUp = {
   hidden: { opacity: 0, y: 60 },
