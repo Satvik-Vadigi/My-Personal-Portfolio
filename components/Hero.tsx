@@ -89,7 +89,7 @@ export default function Hero() {
 
         {/* Resume */}
         <a
-          href="/resume.pdf"
+          href="/RESUME.pdf"
           target="_blank"
           className="border border-gray-400 px-6 py-2 rounded-lg font-semibold transition hover:bg-gray-200 hover:text-black transition-all duration-300 ease-out"
         >
