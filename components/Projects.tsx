@@ -37,7 +37,7 @@ const projects = [
 
 export default function Projects() {
   return (
-    <section className="backdrop-blur-xl bg-white/1.5 border border-white/5 p-10 rounded-2xl shadow-lg transition duration-300 hover:scale-[1.02]">
+    <section id="projects" className="backdrop-blur-xl bg-white/1.5 border border-white/5 p-10 rounded-2xl shadow-lg transition duration-300 hover:scale-[1.02]">
       <h2 className="text-4xl md:text-5xl font-semibold tracking-tight mb-10 text-center">
         Projects
       </h2>
