@@ -72,7 +72,7 @@ export default function Hero() {
       >
         {/* Primary Button */}
         <a
-          href="#projects"
+          href="Projects.tsx"
           className="relative px-6 py-2 rounded-lg font-semibold bg-white text-black overflow-hidden group"
         >
           <span className="relative z-10 transition-all duration-300 ease-out">See My Work</span>
