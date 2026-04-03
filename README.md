@@ -37,3 +37,53 @@ The goal of this project is to demonstrate **real-world development skills**, cl
 ---
 
 ## 📁 Project Structure
+app/
+
+├── page.tsx
+
+├── layout.tsx
+
+├── api/contact/route.ts
+
+components/
+
+  ├── Navbar.tsx
+
+  ├── Hero.tsx
+
+  ├── About.tsx
+
+  ├── Projects.tsx
+
+  ├── Skills.tsx
+
+  ├── Experience.tsx
+
+  ├── Contact.tsx
+
+  ├── ThemeToggle.tsx
+
+public/
+
+  ├── resume.pdf
+
+
+---
+
+## 📬 Contact API
+
+Built using Next.js API routes + Nodemailer.
+
+```ts
+POST /api/contact
+```
+Sends email using Gmail SMTP
+
+
+## 👨‍💻 Author
+
+Satvik
+
+MERN Stack Developer
+
+Focused on building scalable and modern web applications.
